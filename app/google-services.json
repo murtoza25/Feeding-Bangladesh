@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27085217929",
+    "firebase_url": "https://feeding-bangladesh.firebaseio.com",
+    "project_id": "feeding-bangladesh",
+    "storage_bucket": "feeding-bangladesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27085217929:android:4405d6e76f9f17f686a658",
+        "android_client_info": {
+          "package_name": "com.shahbazanwar.feedingbangladesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27085217929-4f06vncpvgenb8mtitus6pjh3m4iqhm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shahbazanwar.feedingbangladesh",
+            "certificate_hash": "10e6ee0ae4b05b4882fcaecbcc185440839c556f"
+          }
+        },
+        {
+          "client_id": "27085217929-niq3lbgf7lv6t897eq3djlc89jub284q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMfhny4LRmQqLDablOIStLz4ys6KQsqhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27085217929-niq3lbgf7lv6t897eq3djlc89jub284q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
